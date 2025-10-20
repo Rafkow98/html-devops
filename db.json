@@ -1,0 +1,29 @@
+[
+	{
+		"marka": "Mercedes",
+		"model": "E220",
+		"rok_produkcji": 2022,
+		"liczba_drzwi": 5,
+		"paliwo": "diesel",
+		"nr_rejestracyjny": "SK51433",
+		"url_zdjecia": "https://storageblob20102025rk.blob.core.windows.net/img-cars/e220.jpg"
+	},
+	{
+		"marka": "Mercedes",
+		"model": "C",
+		"rok_produkcji": 2019,
+		"liczba_drzwi": 5,
+		"paliwo": "diesel",
+		"nr_rejestracyjny": "SG51433",
+		"url_zdjecia": "https://storageblob20102025rk.blob.core.windows.net/img-cars/mercc.webp"
+	},
+	{
+		"marka": "Opel",
+		"model": "Astra",
+		"rok_produkcji": 2022,
+		"liczba_drzwi": 3,
+		"paliwo": "benzyna",
+		"nr_rejestracyjny": "SO51433",
+		"url_zdjecia": "https://storageblob20102025rk.blob.core.windows.net/img-cars/astr.webp"
+	}
+]

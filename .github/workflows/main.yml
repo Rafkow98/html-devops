@@ -19,3 +19,4 @@ jobs:
         password: ${{ secrets.password }}
         protocol: ${{ secrets.protocol }}
         port: ${{ secrets.port }}
+        server-dir: /var/www/html/
